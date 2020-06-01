@@ -1,6 +1,6 @@
-  ![](Image.jpg)
-  
-  # Welcome to my GitHub page!
+![](Image.jpg)
+
+# Welcome to my GitHub page!
 
 Please find the list of data analyses that I have worked on mentioned below:
 

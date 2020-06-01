@@ -1,4 +1,4 @@
-![](Image.jpg)
+![](Waterfall.jpg)
 
 # Welcome to my GitHub page!
 

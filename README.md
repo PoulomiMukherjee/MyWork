@@ -21,3 +21,9 @@ This data analysis is done for an NGO that is looking to send aid to some of the
 #### Highlights:
 
 A US-based housing company wants to analyse the Australian real estate market in order to determine whether it should invest in a house by determining the top features that impact the house prices. Through this data analysis, two models are created using Ridge regression and Lasso regression using the house sale data to filter some of the variables that contribute to the prices of a house in the country.
+
+### [Predictive analysis on churn data for a telecom company](https://github.com/PoulomiMukherjee/TelecomChurnCaseStudy)
+
+#### Highlights:
+
+For this analysis, the churn data of a telecom company for 4 months (June, July, August, and September) is taken. After analysing the data from the months of June, July, and August, different models are created to predict which high-value customers are more likely to churn. First, a model which has high interpretability is created in order to determine some of the key variables that are impacting the churn so as to suggest some business actions that can help bring the churn rate down. Next, 3 different models are generated which offer high accuracy to better predict the high-risk customers.

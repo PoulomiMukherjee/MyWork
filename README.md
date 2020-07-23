@@ -28,8 +28,14 @@ A US-based housing company wants to analyse the Australian real estate market in
 
 For this analysis, the churn data of a telecom company for 4 months (June, July, August, and September) is taken. After analysing the data from the months of June, July, and August, different models are created to predict which high-value customers are more likely to churn. First, a model which has high interpretability is created in order to determine some of the key variables that are impacting the churn so as to suggest some business actions that can help bring the churn rate down. Next, 3 different models are generated which offer high accuracy to better predict the high-risk customers.
 
-### [SQL Assignment on Stock Market Analysis](https://github.com/PoulomiMukherjee/SQLCaseStudy)
+### [Stock market analysis on MySQL Workbench](https://github.com/PoulomiMukherjee/SQLCaseStudy)
 
 #### Highlights:
 
+The stock market data from 1 January 2015 to 31 July 2018 has been taken from the NSE website for analysis. In this dataset, the stock prices of 6 companies including TCS, Eicher Motors, Hero MotoCorp, TVS Motors, Bajaj Auto, and Infosys are present. Once the datasets are loaded in the server as a separate schema, the 20-day and 50-day moving averages of the stocks are calculated in order to check the market trend of the respective stocks. After that, based on the moving averages, a flag is generated which would indicate whether one should buy, sell, or hold the stock on the particular day.
 
+### [Big data analysis (EDA) on New York taxi data using HiveQL](https://github.com/PoulomiMukherjee/HiveCaseStudy)
+
+#### Highlights:
+
+In this analysis, 

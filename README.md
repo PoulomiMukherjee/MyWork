@@ -36,6 +36,6 @@ The stock market data from 1 January 2015 to 31 July 2018 has been taken from th
 
 ### [Big data analysis (EDA) on New York taxi data using HiveQL](https://github.com/PoulomiMukherjee/HiveCaseStudy)
 
-#### Highlights:
+#### Highlights: 
 
-In this analysis, 
+Under this analysis, the data from a yellow taxi company operating in New York is taken to perform exploratory data analysis (EDA) on the trips that were made between November 2017 and December 2017. A detailed EDA is performed on the data to see whether there are any non-conforming records present. The erroneous records are removed after making the appropriate assumptions. Next, the data is partitioned and an orc table is created to filter out the needed records easily. Then, further EDA is performed to answer a few exploratory questions.

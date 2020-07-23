@@ -27,3 +27,9 @@ A US-based housing company wants to analyse the Australian real estate market in
 #### Highlights:
 
 For this analysis, the churn data of a telecom company for 4 months (June, July, August, and September) is taken. After analysing the data from the months of June, July, and August, different models are created to predict which high-value customers are more likely to churn. First, a model which has high interpretability is created in order to determine some of the key variables that are impacting the churn so as to suggest some business actions that can help bring the churn rate down. Next, 3 different models are generated which offer high accuracy to better predict the high-risk customers.
+
+### [SQL Assignment on Stock Market Analysis](https://github.com/PoulomiMukherjee/SQLCaseStudy)
+
+#### Highlights:
+
+

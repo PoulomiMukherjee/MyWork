@@ -4,6 +4,8 @@
 
 Please find the list of data analyses that I have worked on mentioned below:
 
+### [Credit Card Fraud Detection](https://github.com/PoulomiMukherjee/CCFraudDetection)
+
 ### [Logistic regression on lead-scoring data for an educational website company](https://github.com/PoulomiMukherjee/LeadScoringCaseStudy)
 
 #### Highlights:

@@ -18,6 +18,8 @@ In this data analysis, the data from a company that has an educational website i
 
 This data analysis is done for an NGO that is looking to send aid to some of the countries that need it the most using a dataset that contain the socio-economic details of the countries of the world. In order to determine which of the countries are in dire need of aid, the data is used to form clusters based on the socio-economic conditions while the behaviour of these clusters are observed to determine some of the top countries that should receive aid.
 
+### [POS tagging using modified Viterbi heuristic (NLP)](https://github.com/PoulomiMukherjee/POSTagging)
+
 ### [Advanced regression on Australian real estate data for a US-based company](https://github.com/PoulomiMukherjee/AdvancedRegression)
 
 #### Highlights:

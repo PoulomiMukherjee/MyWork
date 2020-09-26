@@ -4,7 +4,11 @@
 
 Please find the list of data analyses that I have worked on mentioned below:
 
-### [Credit Card Fraud Detection](https://github.com/PoulomiMukherjee/CCFraudDetection)
+### [Credit card fraud detection on highly imbalanced data for a banking organisation](https://github.com/PoulomiMukherjee/CCFraudDetection)
+
+#### Highlights:
+
+The data used for this analysis has been taken from Kaggle where it contains credit card transactions for 2 days in September 2013 by European cardholders. This dataset was highly imbalanced with 492 frauds out of a total of 284,807 transactions which accounted for 0.172% for the positive class (frauds). Additionally, most of the features in the given dataset were also PCA transformed to protect sensitive information. While 3 different classifier models (Logistic Regression, Random Forest and XGBoost) were created on the unbalanced dataset, each of these models were tested on the 3 oversampling techniques (Random Oversampling, SMOTE and ADASYN) to determine which offered better results in terms of Area-under-ROC, Precision and Recall.
 
 ### [Logistic regression on lead-scoring data for an educational website company](https://github.com/PoulomiMukherjee/LeadScoringCaseStudy)
 
@@ -19,6 +23,10 @@ In this data analysis, the data from a company that has an educational website i
 This data analysis is done for an NGO that is looking to send aid to some of the countries that need it the most using a dataset that contain the socio-economic details of the countries of the world. In order to determine which of the countries are in dire need of aid, the data is used to form clusters based on the socio-economic conditions while the behaviour of these clusters are observed to determine some of the top countries that should receive aid.
 
 ### [POS tagging using modified Viterbi heuristic (NLP)](https://github.com/PoulomiMukherjee/POSTagging)
+
+#### Highlights:
+
+Under this project, the Vanilla Viterbi algorithm was modified to create 2 new POS taggers. The first Modified Viterbi employed a probabilistic technique where the Viterbi algorithm would take weighted inputs for each of the tags while performing POS tagging on the given text data. The second Modified Viterbi used the rule-based backoff method along with the weighted inputs for the tags during POS tagging on the same dataset.
 
 ### [Advanced regression on Australian real estate data for a US-based company](https://github.com/PoulomiMukherjee/AdvancedRegression)
 

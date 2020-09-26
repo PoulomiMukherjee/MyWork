@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub page!
 
-Please find the list of data analyses that I have worked on mentioned below:
+Please see the list mentioned below to learn more about the projects I have completed. You can also click on the project names to redirect to the concerned repositories for the detailed overviews and the code files.
 
 ### [Credit card fraud detection on highly imbalanced data for a banking organisation](https://github.com/PoulomiMukherjee/CCFraudDetection)
 
